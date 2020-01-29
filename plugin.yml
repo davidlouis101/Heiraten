@@ -1,7 +1,7 @@
-name: CMD
+name: YT
 api:  3.8.1
 version: 1.0.0
-main: David\CMD\Main
+main: David\YT\Main
 author: David
 load: STARTUP
 commands:
