@@ -1,0 +1,11 @@
+name: CMD
+api:  3.8.1
+version: 1.0.0
+main: David\CMD\Main
+author: David
+load: STARTUP
+commands:
+  YT:
+    description: §bYT Rang.
+    usage: "/YT"
+    permision: YT.cmd
