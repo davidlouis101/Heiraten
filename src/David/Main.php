@@ -1,3 +1,3 @@
 <?php
 
-namespace David\Heiraten
+namespace David\Heiraten;
