@@ -29,9 +29,5 @@ use pocketmine\Player;
                     $sender->sendMessage("Du hast keine Rechte diesen Befehl zu benutzen");
                     return true;
                 } 
-            }
-            return true;
-         }
-            return true;
-       }
-      }
+               }
+              }
